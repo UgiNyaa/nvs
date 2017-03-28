@@ -1,11 +1,9 @@
 const Person = require('./lib/Person')
 
 class Asdf {
-
-  hello(e) {
+  hello (e) {
     console.log('geil')
   }
-
 }
 
 var a = new Asdf()
